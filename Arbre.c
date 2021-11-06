@@ -11,6 +11,7 @@ int main(){
 	char choix,rep;
 	int pos;
 	int sortie = 0;
+	//Test
 	printf("Etiquette de la racine : ");
 	scanf("%c",&car);
 	arbre = nouvNoeud(car);
